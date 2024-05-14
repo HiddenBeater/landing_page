@@ -19,6 +19,7 @@ html{
 ul{
     display: flex;
     list-style-type: none;
+    align-items: flex-start;
     gap: 20px;
     font-size: 18px;
     color: #e5e7eb;
@@ -31,4 +32,13 @@ ul{
     flex: 1;
     margin-top: 20px;
     margin-right: 50px;
+}
+
+.logo{
+    display: flex;
+    flex: 1;
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 100px;
+    width: 100px;
 }
