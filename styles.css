@@ -6,3 +6,7 @@ html{
     background-color: #1f2937;
     color: white;
 }
+
+.hero-banner{
+    display: flex;
+}
