@@ -20,4 +20,15 @@ ul{
     display: flex;
     list-style-type: none;
     gap: 20px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.hero-links{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex: 1;
+    margin-top: 20px;
+    margin-right: 50px;
 }
