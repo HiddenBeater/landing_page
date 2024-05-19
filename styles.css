@@ -14,6 +14,7 @@ html{
 
 .hero-banner{
     display: flex;
+    justify-content: center;
 }
 
 ul{
@@ -27,7 +28,7 @@ ul{
 
 .hero-links{
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: flex-start;
     flex: 1;
     margin-top: 20px;
@@ -36,9 +37,10 @@ ul{
 
 .logo{
     display: flex;
+    justify-content: flex-start;
     flex: 1;
-    margin-top: 20px;
-    margin-left: 50px;
+    margin-top: 10px;
+    margin-left: 150px;
     height: 100px;
     width: 100px;
 }
