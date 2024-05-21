@@ -56,6 +56,7 @@ ul{
     flex-direction: column;
     margin-top: 100px;
     margin-right: 100px;
+    margin-bottom: 200px;
     width: 500px;
 }
 
@@ -66,6 +67,7 @@ ul{
 
 .hero-img img{
     margin-top: 100px;
+    margin-left: 100px;
     height: 300px;
     width: 600px;
 }
