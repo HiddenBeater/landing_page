@@ -66,6 +66,9 @@ ul{
     display: flex;
     justify-content: center;
     flex: 1;
+}
+
+.hero-img img{
     height: 200px;
     width: 500px;
 }
