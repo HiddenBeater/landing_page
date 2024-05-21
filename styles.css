@@ -55,12 +55,12 @@ ul{
     flex-direction: column;
     margin-left: 150px;
     margin-top: 100px;
-    width: 700px;
+    width: 600px;
 }
 
 .hero-text-description{
     display: flex;
-    flex-wrap: wrap;
+    text-wrap: wrap;
 }
 
 .hero-img{
