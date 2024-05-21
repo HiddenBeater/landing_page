@@ -66,10 +66,16 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
-    flex: 2;
+    flex: 1;
 }
 
 .hero-img img{
     height: 70%;
     width: 70%;
+}
+
+.hero-text{
+    font-size: 48px;
+    font-weight: bolder;
+    color: f9faf8;
 }
