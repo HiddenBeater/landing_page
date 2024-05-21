@@ -32,7 +32,7 @@ ul{
     align-items: flex-start;
     flex: 1;
     margin-top: 20px;
-    margin-right: 50px;
+    margin-right: 120px;
 }
 
 .logo{
@@ -40,22 +40,22 @@ ul{
     justify-content: flex-start;
     flex: 1;
     margin-top: 10px;
-    margin-left: 150px;
+    margin-left: 270px;
     height: 100px;
     width: 100px;
 }
 
 .top-header{
     display: flex;
-    flex: 1;
+    justify-content: space-evenly;
+    gap: 15px;
 }
 
 .top-header-text{
     display: flex;
     flex-direction: column;
-    margin-left: 150px;
     margin-top: 100px;
-    width: 450px;
+    width: 500px;
 }
 
 .hero-text-description{
@@ -63,18 +63,10 @@ ul{
     text-wrap: wrap;
 }
 
-.hero-img{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex: 1;
-}
-
 .hero-img img{
     margin-top: 100px;
-    margin-bottom: 100px;
     height: 300px;
-    width: 700px;
+    width: 600px;
 }
 
 .hero-text{
