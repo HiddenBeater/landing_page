@@ -65,10 +65,11 @@ ul{
 .hero-img{
     display: flex;
     justify-content: center;
-    flex: 1;
+    align-items: center;
+    flex: 2;
 }
 
 .hero-img img{
-    height: 200px;
-    width: 500px;
+    height: 70%;
+    width: 70%;
 }
