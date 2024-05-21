@@ -47,6 +47,7 @@ ul{
 
 .top-header{
     display: flex;
+    flex: 1;
 }
 
 .top-header-text{
@@ -54,8 +55,6 @@ ul{
     flex-direction: column;
     margin-left: 150px;
     margin-top: 100px;
-    width: 25%;
-    flex: 1;
 }
 
 .hero-text-description{
