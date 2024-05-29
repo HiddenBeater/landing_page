@@ -102,6 +102,16 @@ button{
     display: flex;
     justify-content: space-around;
     flex: 1;
-    min-width: 30%;
+}
+
+.fire-one-img{
+    border: 2px solid black;
+    max-width: 200px;
+    height: 120px;
+}
+
+.fire-one-img img{
+    width: 100%;
     height: auto;
 }
+
