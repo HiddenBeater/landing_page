@@ -104,7 +104,7 @@ button{
     flex: 1;
 }
 
-.fire-one-img{
+.fire-one-img, .fire-two-img, .habanero-img, .pepper-seeds-img{
     border: 2px solid black;
     max-width: 200px;
     height: 120px;
@@ -115,3 +115,17 @@ button{
     height: auto;
 }
 
+.fire-two-img img{
+    width: 100%;
+    height: auto;
+}
+
+.habanero-img img{
+    width: 100%;
+    height: auto;
+}
+
+.pepper-seeds-img img{
+    width: 100%;
+    height: auto;
+}
