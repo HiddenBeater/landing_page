@@ -100,5 +100,8 @@ button{
 
 .info-imgs{
     display: flex;
+    justify-content: space-around;
     flex: 1;
+    min-width: 30%;
+    height: auto;
 }
