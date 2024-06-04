@@ -104,6 +104,8 @@ button{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    text-align: center;
+    text-wrap: balance;
 }
 
 .fire-one-img, .fire-two-img, .habanero-img, .pepper-seeds-img{
@@ -113,65 +115,21 @@ button{
 }
 
 .fire-one-img img{
-    width: 100%;
-    height: 100%;
+    max-width: 100%;
+    height: 120px;
 }
 
 .fire-two-img img{
-    width: 100%;
-    height: 100%;
+    max-width: 100%;
+    height: 120px;
 }
 
 .habanero-img img{
-    width: 100%;
-    height: 100%;
+    max-width: 100%;
+    height: 120px;
 }
 
 .pepper-seeds-img img{
-    width: 100%;
-    height: 100%;
-}
-
-.fire-one-info{
-    display: flex;
-    text-wrap: balance;
-}
-
-.fire-two-info{
-    display: flex;
-    text-wrap: balance;
-}
-
-.habanero-info{
-    display: flex;
-    text-wrap: balance;
-}
-
-.pepper-seeds-info{
-    display: flex;
-    text-wrap: balance;
-}
-
-.info-img-one{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.info-img-two{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.info-img-three{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.info-img-four{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    max-width: 100%;
+    height: 120px;
 }
