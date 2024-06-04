@@ -102,7 +102,7 @@ button{
 
 .info-imgs{
     display: flex;
-    flex: 1;
+    justify-content: space-around;
 }
 
 .fire-one-img, .fire-two-img, .habanero-img, .pepper-seeds-img{
