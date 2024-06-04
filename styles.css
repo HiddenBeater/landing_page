@@ -103,6 +103,7 @@ button{
 .info-imgs{
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .fire-one-img, .fire-two-img, .habanero-img, .pepper-seeds-img{
@@ -129,4 +130,30 @@ button{
 .pepper-seeds-img img{
     width: 100%;
     height: 100%;
+}
+
+.fire-one-info{
+    display: flex;
+    text-wrap: balance;
+}
+
+.fire-two-info{
+    display: flex;
+    text-wrap: balance;
+}
+
+.habanero-info{
+    display: flex;
+    text-wrap: balance;
+}
+
+.pepper-seeds-info{
+    display: flex;
+    text-wrap: balance;
+}
+
+.info-img-one{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
