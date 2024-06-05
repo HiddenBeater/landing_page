@@ -102,7 +102,7 @@ button{
 
 .info-imgs{
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
     align-items: center;
     text-align: center;
     text-wrap: balance;
@@ -118,6 +118,7 @@ button{
     flex-direction: column;
     align-items: center;
     gap: 10px;
+    flex: 1;
 }
 
 .info-img-two{
@@ -125,6 +126,7 @@ button{
     flex-direction: column;
     align-items: center;
     gap: 10px;
+    flex: 1;
 }
 
 .info-img-three{
@@ -132,6 +134,7 @@ button{
     flex-direction: column;
     align-items: center;
     gap: 10px;
+    flex: 1;
 }
 
 .info-img-four{
@@ -139,6 +142,7 @@ button{
     flex-direction: column;
     align-items: center;
     gap: 10px;
+    flex: 1;
 }
 
 .fire-one-img img{
