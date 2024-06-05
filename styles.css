@@ -102,7 +102,7 @@ button{
 
 .info-imgs{
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     text-align: center;
     text-wrap: balance;
