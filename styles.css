@@ -196,3 +196,8 @@ button{
     padding-right: 635px;
     margin-bottom: 80px;
 }
+
+.action-section{
+    display: flex;
+    justify-content: center;
+}
