@@ -91,12 +91,16 @@ button{
     margin-top: 10px;
 }
 
+.info-field{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
 .info-title{
     display: flex;
     justify-content: center;
     font-weight: bold;
     font-size: 30px;
-    margin-top: 60px;
     margin-bottom: 60px;
 }
 
