@@ -211,10 +211,18 @@ button{
 }
 
 .action-title{
-    font-size: 20px;
+    font-size: 25px;
     font-weight: bold;
     color: #f9faf8;
+
 }
+
+.action-description{
+    font-size: 20px;
+    color: #f9faf8;
+}
+
+
 .action-container{
     display: flex;
 }
