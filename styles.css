@@ -215,3 +215,6 @@ button{
     font-weight: bold;
     color: #f9faf8;
 }
+.action-container{
+    display: flex;
+}
