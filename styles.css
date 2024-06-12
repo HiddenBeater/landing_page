@@ -235,5 +235,12 @@ ul{
 }
 
 .button2{
-    
+    font-size: 20px;
+    color:#f9faf8;
+    font-weight: bold;
+    background-color: #3882f6;
+    border-radius: 10px;
+    padding: 12px;
+    width: 150px;
+    border: 2px solid white;
 }
