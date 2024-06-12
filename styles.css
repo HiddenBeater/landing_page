@@ -206,7 +206,7 @@ button{
 
 .box{
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     background-color: #3882f6;
     border-radius: 25px;
     padding: 20px;
@@ -219,16 +219,19 @@ button{
     font-weight: bold;
     color: #f9faf8;
     padding-top: 40px;
+    padding-left: 200px;
 
 }
 
 .action-description{
     font-size: 20px;
     color: #f9faf8;
+    padding-left: 200px;
 }
 
 
 .action-container{
     display: flex;
     padding-bottom: 40px;
+    gap: 700px;
 }
